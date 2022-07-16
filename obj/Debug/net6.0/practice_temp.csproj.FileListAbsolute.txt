@@ -1,0 +1,15 @@
+/Users/i/Desktop/practice_temp/bin/Debug/net6.0/practice_temp
+/Users/i/Desktop/practice_temp/bin/Debug/net6.0/practice_temp.deps.json
+/Users/i/Desktop/practice_temp/bin/Debug/net6.0/practice_temp.runtimeconfig.json
+/Users/i/Desktop/practice_temp/bin/Debug/net6.0/practice_temp.dll
+/Users/i/Desktop/practice_temp/bin/Debug/net6.0/practice_temp.pdb
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/practice_temp.csproj.AssemblyReference.cache
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/practice_temp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/practice_temp.AssemblyInfoInputs.cache
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/practice_temp.AssemblyInfo.cs
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/practice_temp.csproj.CoreCompileInputs.cache
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/practice_temp.dll
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/refint/practice_temp.dll
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/practice_temp.pdb
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/practice_temp.genruntimeconfig.cache
+/Users/i/Desktop/practice_temp/obj/Debug/net6.0/ref/practice_temp.dll
